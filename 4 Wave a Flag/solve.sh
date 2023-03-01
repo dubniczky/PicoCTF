@@ -1,0 +1,1 @@
+strings warm | grep picoCTF
