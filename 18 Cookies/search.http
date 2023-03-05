@@ -1,0 +1,6 @@
+POST /search HTTP/1.1
+Host: mercury.picoctf.net:29649
+Content-Type: application/x-www-form-urlencoded
+Cookie: name=18
+
+name=name
