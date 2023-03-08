@@ -1,0 +1,1 @@
+cat text.txt | base64 -d
