@@ -1,0 +1,1 @@
+cat file | grep picoCTF
