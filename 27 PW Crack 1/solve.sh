@@ -1,0 +1,1 @@
+echo "1e1a" | python level1.py | grep "picoCTF"
